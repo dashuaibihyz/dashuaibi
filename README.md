@@ -1,6 +1,6 @@
 # 火麟飞的自我介绍
 
-<img src="C:\shijian\photo\R-C.jpg" width="200" alt="火麟飞形象">
+<img src="https://github.com/dashuaibihyz/dashuaibi/blob/master/photo/R-C.jpg" width="200" alt="火麟飞形象">
 
 大家好，我是**火麟飞**，我的身份是*超兽战队队员之首*。以下是我的自我介绍：
 
@@ -45,7 +45,7 @@
 ## 结语
 我是火麟飞。我打败鬼谷子，我回到了地球，开始了《超兽武装》的第三部--《超兽武装：重生，我在地球敲代码》，现在请v我50查看本次作业。
 
-<img src="C:\shijian\photo\jietu1.png" width="200" alt="截图一">
+<img src="https://github.com/dashuaibihyz/dashuaibi/blob/master/photo/jietu1.png" width="800" alt="截图一">
 
-<img src="C:\shijian\photo\jietu2.png" width="200" alt="截图二">
+<img src="https://github.com/dashuaibihyz/dashuaibi/blob/master/photo/jietu2.png" width="800" alt="截图二">
 
